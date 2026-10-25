@@ -1,0 +1,10 @@
+{
+  "id": "32930567",
+  "company": "ACCESA IT SYSTEMS SRL",
+  "brand": "Accesa",
+  "status": "activ",
+  "location": ["Cluj-Napoca"],
+  "website": ["https://www.accesa.eu"],
+  "career": ["https://jobs.smartrecruiters.com/Accesa"],
+  "scraperFile": "https://github.com/peviitor-scrapers/accesa-it-systems-nodejs-scraper/actions/workflows/scrape.yml"
+}
