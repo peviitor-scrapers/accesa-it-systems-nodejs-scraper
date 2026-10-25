@@ -1,0 +1,206 @@
+# ACCESA IT SYSTEMS SRL
+
+## Company Info
+
+| Field | Value |
+|-------|-------|
+| CIF | 32930567 |
+| Brand | Accesa |
+| Status | activ |
+| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
+| Website | [https://www.accesa.eu](https://www.accesa.eu) |
+| Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
+| Last Scraped | 2026-10-25 |
+
+## Current Job Listings (27)
+
+_Generated: 2026-10-25T19:24:27.872Z_
+
+### Senior Android Software Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000157105729](https://jobs.smartrecruiters.com/Accesa/744000157105729)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Frontend Software Engineer with React
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000157052939](https://jobs.smartrecruiters.com/Accesa/744000157052939)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Talent Acquisition Specialist (External Delivery Partners Team)
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156785219](https://jobs.smartrecruiters.com/Accesa/744000156785219)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Junior Product Owner with German – Academy
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156761700](https://jobs.smartrecruiters.com/Accesa/744000156761700)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Talent Performance & Development Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156751189](https://jobs.smartrecruiters.com/Accesa/744000156751189)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### SAP Professionals - Join our SAP Talent Community | Future Openings
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156525774](https://jobs.smartrecruiters.com/Accesa/744000156525774)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### BI Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154942339](https://jobs.smartrecruiters.com/Accesa/744000154942339)
+- **Work Mode:** hybrid
+- **Location:** Bucharest
+- **Status:** scraped
+
+### Technical Lead with React
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154936819](https://jobs.smartrecruiters.com/Accesa/744000154936819)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Java Software Engineer with Angular
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154603519](https://jobs.smartrecruiters.com/Accesa/744000154603519)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Android Technical Lead
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154088668](https://jobs.smartrecruiters.com/Accesa/744000154088668)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Technology Partnership Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000153532934](https://jobs.smartrecruiters.com/Accesa/744000153532934)
+- **Work Mode:** remote
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Technical Product Owner with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000152619179](https://jobs.smartrecruiters.com/Accesa/744000152619179)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Microsoft 365 Software Engineer with German (SharePoint Developer)
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000150076050](https://jobs.smartrecruiters.com/Accesa/744000150076050)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Data Scientist – Search & Recommendations
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000150038779](https://jobs.smartrecruiters.com/Accesa/744000150038779)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Data Platform Engineer (Azure, Databricks, Terraform)
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000149808482](https://jobs.smartrecruiters.com/Accesa/744000149808482)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior GenAI Engineer (Agentic AI & Databricks)
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000149528839](https://jobs.smartrecruiters.com/Accesa/744000149528839)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Forward Deployed AI Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000148502874](https://jobs.smartrecruiters.com/Accesa/744000148502874)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### SAP FI CO Consultant with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000145739844](https://jobs.smartrecruiters.com/Accesa/744000145739844)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Delivery Senior Manager with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000141903440](https://jobs.smartrecruiters.com/Accesa/744000141903440)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Golang Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000140857039](https://jobs.smartrecruiters.com/Accesa/744000140857039)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Golang Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000140853194](https://jobs.smartrecruiters.com/Accesa/744000140853194)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Java Technical Lead
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000139995629](https://jobs.smartrecruiters.com/Accesa/744000139995629)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Product Owner with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000135482289](https://jobs.smartrecruiters.com/Accesa/744000135482289)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Java Software Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000134936579](https://jobs.smartrecruiters.com/Accesa/744000134936579)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Frontend Software Engineer (Angular) with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000134729117](https://jobs.smartrecruiters.com/Accesa/744000134729117)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Business Analyst with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000134483359](https://jobs.smartrecruiters.com/Accesa/744000134483359)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Generic Job Romania
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000067914275](https://jobs.smartrecruiters.com/Accesa/744000067914275)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
