@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (27)
+## Current Job Listings (26)
 
-_Generated: 2026-10-25T19:24:27.872Z_
+_Generated: 2026-10-26T12:09:32.988Z_
 
 ### Senior Android Software Engineer
 
@@ -33,13 +33,6 @@ _Generated: 2026-10-25T19:24:27.872Z_
 ### Talent Acquisition Specialist (External Delivery Partners Team)
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156785219](https://jobs.smartrecruiters.com/Accesa/744000156785219)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Junior Product Owner with German – Academy
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156761700](https://jobs.smartrecruiters.com/Accesa/744000156761700)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
