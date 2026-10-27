@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (26)
+## Current Job Listings (24)
 
-_Generated: 2026-10-26T12:09:32.988Z_
+_Generated: 2026-10-27T11:31:30.247Z_
 
 ### Senior Android Software Engineer
 
@@ -77,13 +77,6 @@ _Generated: 2026-10-26T12:09:32.988Z_
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154088668](https://jobs.smartrecruiters.com/Accesa/744000154088668)
 - **Work Mode:** remote
 - **Location:** România
-- **Status:** scraped
-
-### Technology Partnership Manager
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000153532934](https://jobs.smartrecruiters.com/Accesa/744000153532934)
-- **Work Mode:** remote
-- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### Technical Product Owner with German
@@ -166,13 +159,6 @@ _Generated: 2026-10-26T12:09:32.988Z_
 ### Product Owner with German
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000135482289](https://jobs.smartrecruiters.com/Accesa/744000135482289)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Java Software Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000134936579](https://jobs.smartrecruiters.com/Accesa/744000134936579)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
