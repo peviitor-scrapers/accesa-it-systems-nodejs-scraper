@@ -10,11 +10,39 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (24)
+## Current Job Listings (27)
 
-_Generated: 2026-10-27T11:31:30.247Z_
+_Generated: 2026-10-28T12:00:39.899Z_
+
+### SAP Professionals - Join our SAP Talent Community
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158079649](https://jobs.smartrecruiters.com/Accesa/744000158079649)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Junior Product Owner with German – Academy
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158045565](https://jobs.smartrecruiters.com/Accesa/744000158045565)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior AI Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158023234](https://jobs.smartrecruiters.com/Accesa/744000158023234)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Java Software Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000157980739](https://jobs.smartrecruiters.com/Accesa/744000157980739)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### Senior Android Software Engineer
 
@@ -42,13 +70,6 @@ _Generated: 2026-10-27T11:31:30.247Z_
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156751189](https://jobs.smartrecruiters.com/Accesa/744000156751189)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### SAP Professionals - Join our SAP Talent Community | Future Openings
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156525774](https://jobs.smartrecruiters.com/Accesa/744000156525774)
-- **Work Mode:** remote
-- **Location:** România
 - **Status:** scraped
 
 ### BI Manager
