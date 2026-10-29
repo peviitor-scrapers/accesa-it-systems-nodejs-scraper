@@ -10,22 +10,22 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
-## Current Job Listings (27)
+## Current Job Listings (26)
 
-_Generated: 2026-10-28T12:00:39.899Z_
+_Generated: 2026-10-29T12:11:54.268Z_
 
 ### SAP Professionals - Join our SAP Talent Community
 
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158079649](https://jobs.smartrecruiters.com/Accesa/744000158079649)
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158469999](https://jobs.smartrecruiters.com/Accesa/744000158469999)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
 
-### Junior Product Owner with German – Academy
+### Delivery Manager with German
 
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158045565](https://jobs.smartrecruiters.com/Accesa/744000158045565)
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158444479](https://jobs.smartrecruiters.com/Accesa/744000158444479)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -145,13 +145,6 @@ _Generated: 2026-10-28T12:00:39.899Z_
 ### SAP FI CO Consultant with German
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000145739844](https://jobs.smartrecruiters.com/Accesa/744000145739844)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Delivery Senior Manager with German
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000141903440](https://jobs.smartrecruiters.com/Accesa/744000141903440)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
