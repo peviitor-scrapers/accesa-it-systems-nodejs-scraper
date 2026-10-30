@@ -7,14 +7,21 @@
 | CIF | 32930567 |
 | Brand | Accesa |
 | Status | activ |
-| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
+| Location | Cluj-Napoca |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
 ## Current Job Listings (26)
 
-_Generated: 2026-10-29T12:11:54.268Z_
+_Generated: 2026-10-30T12:02:23.138Z_
+
+### Senior Data Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158678409](https://jobs.smartrecruiters.com/Accesa/744000158678409)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
 
 ### SAP Professionals - Join our SAP Talent Community
 
@@ -152,13 +159,6 @@ _Generated: 2026-10-29T12:11:54.268Z_
 ### Senior Golang Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000140857039](https://jobs.smartrecruiters.com/Accesa/744000140857039)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Golang Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000140853194](https://jobs.smartrecruiters.com/Accesa/744000140853194)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
