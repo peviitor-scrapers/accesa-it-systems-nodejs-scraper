@@ -10,11 +10,32 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (26)
+## Current Job Listings (27)
 
-_Generated: 2026-11-01T12:35:29.699Z_
+_Generated: 2026-11-02T14:38:13.359Z_
+
+### Software Engineer with React and Node.js
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159110279](https://jobs.smartrecruiters.com/Accesa/744000159110279)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Software Engineer with React and Node.js
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159109889](https://jobs.smartrecruiters.com/Accesa/744000159109889)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Frontend Software Engineer (Angular) with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159074625](https://jobs.smartrecruiters.com/Accesa/744000159074625)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### Senior Data Engineer
 
@@ -173,20 +194,6 @@ _Generated: 2026-11-01T12:35:29.699Z_
 ### Product Owner with German
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000135482289](https://jobs.smartrecruiters.com/Accesa/744000135482289)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Frontend Software Engineer (Angular) with German
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000134729117](https://jobs.smartrecruiters.com/Accesa/744000134729117)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Business Analyst with German
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000134483359](https://jobs.smartrecruiters.com/Accesa/744000134483359)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
