@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (27)
+## Current Job Listings (28)
 
-_Generated: 2026-11-02T14:38:13.359Z_
+_Generated: 2026-11-03T13:31:23.028Z_
+
+### Cloud / DevOps Engineer – STACKIT
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159322933](https://jobs.smartrecruiters.com/Accesa/744000159322933)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### Software Engineer with React and Node.js
 
