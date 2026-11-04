@@ -10,15 +10,29 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
-## Current Job Listings (28)
+## Current Job Listings (27)
 
-_Generated: 2026-11-03T13:31:23.028Z_
+_Generated: 2026-11-04T13:42:18.388Z_
 
-### Cloud / DevOps Engineer – STACKIT
+### Senior RPA Software Engineer with UIPath
 
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159322933](https://jobs.smartrecruiters.com/Accesa/744000159322933)
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159609555](https://jobs.smartrecruiters.com/Accesa/744000159609555)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior DevOps Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159599899](https://jobs.smartrecruiters.com/Accesa/744000159599899)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Android Software Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159594383](https://jobs.smartrecruiters.com/Accesa/744000159594383)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -75,13 +89,6 @@ _Generated: 2026-11-03T13:31:23.028Z_
 ### Senior Java Software Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000157980739](https://jobs.smartrecruiters.com/Accesa/744000157980739)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Android Software Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000157105729](https://jobs.smartrecruiters.com/Accesa/744000157105729)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -149,13 +156,6 @@ _Generated: 2026-11-03T13:31:23.028Z_
 - **Location:** România
 - **Status:** scraped
 
-### Senior Data Scientist – Search & Recommendations
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000150038779](https://jobs.smartrecruiters.com/Accesa/744000150038779)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
 ### Senior Data Platform Engineer (Azure, Databricks, Terraform)
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000149808482](https://jobs.smartrecruiters.com/Accesa/744000149808482)
@@ -166,13 +166,6 @@ _Generated: 2026-11-03T13:31:23.028Z_
 ### Senior GenAI Engineer (Agentic AI & Databricks)
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000149528839](https://jobs.smartrecruiters.com/Accesa/744000149528839)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Forward Deployed AI Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000148502874](https://jobs.smartrecruiters.com/Accesa/744000148502874)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
