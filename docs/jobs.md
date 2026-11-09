@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (26)
+## Current Job Listings (25)
 
-_Generated: 2026-11-08T12:40:29.077Z_
+_Generated: 2026-11-09T15:00:13.438Z_
 
 ### Senior RPA Software Engineer with UIPath
 
@@ -33,13 +33,6 @@ _Generated: 2026-11-08T12:40:29.077Z_
 ### Senior Android Software Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159594383](https://jobs.smartrecruiters.com/Accesa/744000159594383)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Software Engineer with React and Node.js
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159110279](https://jobs.smartrecruiters.com/Accesa/744000159110279)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
