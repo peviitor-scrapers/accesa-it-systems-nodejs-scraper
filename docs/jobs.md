@@ -10,11 +10,25 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
-## Current Job Listings (25)
+## Current Job Listings (26)
 
-_Generated: 2026-11-09T15:00:13.438Z_
+_Generated: 2026-11-10T14:13:25.616Z_
+
+### Delivery Manager with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000160832250](https://jobs.smartrecruiters.com/Accesa/744000160832250)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Junior Product Owner with German – Academy
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000160815670](https://jobs.smartrecruiters.com/Accesa/744000160815670)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### Senior RPA Software Engineer with UIPath
 
@@ -61,13 +75,6 @@ _Generated: 2026-11-09T15:00:13.438Z_
 ### SAP Professionals - Join our SAP Talent Community
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158469999](https://jobs.smartrecruiters.com/Accesa/744000158469999)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Delivery Manager with German
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158444479](https://jobs.smartrecruiters.com/Accesa/744000158444479)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
