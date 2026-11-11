@@ -10,11 +10,25 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
-## Current Job Listings (26)
+## Current Job Listings (27)
 
-_Generated: 2026-11-10T14:13:25.616Z_
+_Generated: 2026-11-11T13:28:34.064Z_
+
+### Senior Android IoT Software Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000161082752](https://jobs.smartrecruiters.com/Accesa/744000161082752)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### RSA Archer Implementation Consultant
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000161052809](https://jobs.smartrecruiters.com/Accesa/744000161052809)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### Delivery Manager with German
 
@@ -40,13 +54,6 @@ _Generated: 2026-11-10T14:13:25.616Z_
 ### Senior DevOps Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159599899](https://jobs.smartrecruiters.com/Accesa/744000159599899)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Android Software Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159594383](https://jobs.smartrecruiters.com/Accesa/744000159594383)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
