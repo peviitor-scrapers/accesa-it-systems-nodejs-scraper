@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
-## Current Job Listings (27)
+## Current Job Listings (28)
 
-_Generated: 2026-11-12T14:31:56.854Z_
+_Generated: 2026-11-13T13:51:06.566Z_
+
+### DevOps Technical Lead with German
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000161324039](https://jobs.smartrecruiters.com/Accesa/744000161324039)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### Senior Android IoT Software Engineer
 
