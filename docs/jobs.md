@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
 ## Current Job Listings (28)
 
-_Generated: 2026-11-13T13:51:06.566Z_
+_Generated: 2026-11-14T12:54:08.394Z_
 
 ### DevOps Technical Lead with German
 
