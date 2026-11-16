@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (28)
+## Current Job Listings (26)
 
-_Generated: 2026-11-15T13:22:03.054Z_
+_Generated: 2026-11-16T14:36:08.807Z_
 
 ### DevOps Technical Lead with German
 
@@ -47,13 +47,6 @@ _Generated: 2026-11-15T13:22:03.054Z_
 ### Junior Product Owner with German – Academy
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000160815670](https://jobs.smartrecruiters.com/Accesa/744000160815670)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior RPA Software Engineer with UIPath
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159609555](https://jobs.smartrecruiters.com/Accesa/744000159609555)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -103,13 +96,6 @@ _Generated: 2026-11-15T13:22:03.054Z_
 ### Senior Java Software Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000157980739](https://jobs.smartrecruiters.com/Accesa/744000157980739)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Talent Acquisition Specialist (External Delivery Partners Team)
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000156785219](https://jobs.smartrecruiters.com/Accesa/744000156785219)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
