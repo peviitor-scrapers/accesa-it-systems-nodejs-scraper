@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
-## Current Job Listings (26)
+## Current Job Listings (25)
 
-_Generated: 2026-11-16T14:36:08.807Z_
+_Generated: 2026-11-17T15:25:39.251Z_
 
 ### DevOps Technical Lead with German
 
@@ -40,13 +40,6 @@ _Generated: 2026-11-16T14:36:08.807Z_
 ### Delivery Manager with German
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000160832250](https://jobs.smartrecruiters.com/Accesa/744000160832250)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Junior Product Owner with German – Academy
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000160815670](https://jobs.smartrecruiters.com/Accesa/744000160815670)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
