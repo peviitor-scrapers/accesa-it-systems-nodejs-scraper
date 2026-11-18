@@ -7,14 +7,14 @@
 | CIF | 32930567 |
 | Brand | Accesa |
 | Status | activ |
-| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
+| Location | Cluj-Napoca |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
 ## Current Job Listings (25)
 
-_Generated: 2026-11-17T15:25:39.251Z_
+_Generated: 2026-11-18T15:01:01.853Z_
 
 ### DevOps Technical Lead with German
 
