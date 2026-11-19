@@ -7,14 +7,35 @@
 | CIF | 32930567 |
 | Brand | Accesa |
 | Status | activ |
-| Location | Cluj-Napoca |
+| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (25)
+## Current Job Listings (28)
 
-_Generated: 2026-11-18T15:01:01.853Z_
+_Generated: 2026-11-19T15:08:47.856Z_
+
+### Senior Network & Security Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162500689](https://jobs.smartrecruiters.com/Accesa/744000162500689)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Data & AI Solutions Architect
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162482120](https://jobs.smartrecruiters.com/Accesa/744000162482120)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Data & AI Software Architect
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162480885](https://jobs.smartrecruiters.com/Accesa/744000162480885)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
 
 ### DevOps Technical Lead with German
 
