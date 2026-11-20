@@ -10,17 +10,24 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (28)
 
-_Generated: 2026-11-19T15:08:47.856Z_
+_Generated: 2026-11-20T14:49:27.058Z_
 
-### Senior Network & Security Engineer
+### Senior Network Engineer
 
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162500689](https://jobs.smartrecruiters.com/Accesa/744000162500689)
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162725069](https://jobs.smartrecruiters.com/Accesa/744000162725069)
 - **Work Mode:** remote
 - **Location:** România
+- **Status:** scraped
+
+### Front Office Assistant
+
+- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162661059](https://jobs.smartrecruiters.com/Accesa/744000162661059)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### Data & AI Solutions Architect
@@ -138,13 +145,6 @@ _Generated: 2026-11-19T15:08:47.856Z_
 ### Senior Java Software Engineer with Angular
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154603519](https://jobs.smartrecruiters.com/Accesa/744000154603519)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Android Technical Lead
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000154088668](https://jobs.smartrecruiters.com/Accesa/744000154088668)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
