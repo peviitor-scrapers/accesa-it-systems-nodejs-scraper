@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
 ## Current Job Listings (28)
 
-_Generated: 2026-11-22T13:58:04.662Z_
+_Generated: 2026-11-23T17:13:34.780Z_
 
 ### Senior Network Engineer
 
