@@ -10,24 +10,17 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (28)
+## Current Job Listings (27)
 
-_Generated: 2026-11-23T17:13:34.780Z_
+_Generated: 2026-11-24T16:54:50.673Z_
 
 ### Senior Network Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162725069](https://jobs.smartrecruiters.com/Accesa/744000162725069)
 - **Work Mode:** remote
 - **Location:** România
-- **Status:** scraped
-
-### Front Office Assistant
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000162661059](https://jobs.smartrecruiters.com/Accesa/744000162661059)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### Data & AI Solutions Architect
