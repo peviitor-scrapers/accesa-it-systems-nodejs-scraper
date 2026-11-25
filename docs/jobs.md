@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (27)
+## Current Job Listings (24)
 
-_Generated: 2026-11-24T16:54:50.673Z_
+_Generated: 2026-11-25T16:42:57.276Z_
 
 ### Senior Network Engineer
 
@@ -58,13 +58,6 @@ _Generated: 2026-11-24T16:54:50.673Z_
 - **Location:** România
 - **Status:** scraped
 
-### Delivery Manager with German
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000160832250](https://jobs.smartrecruiters.com/Accesa/744000160832250)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
 ### Senior DevOps Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159599899](https://jobs.smartrecruiters.com/Accesa/744000159599899)
@@ -83,13 +76,6 @@ _Generated: 2026-11-24T16:54:50.673Z_
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000159074625](https://jobs.smartrecruiters.com/Accesa/744000159074625)
 - **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Data Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000158678409](https://jobs.smartrecruiters.com/Accesa/744000158678409)
-- **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
 
@@ -187,13 +173,6 @@ _Generated: 2026-11-24T16:54:50.673Z_
 ### Java Technical Lead
 
 - **URL:** [https://jobs.smartrecruiters.com/Accesa/744000139995629](https://jobs.smartrecruiters.com/Accesa/744000139995629)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Product Owner with German
-
-- **URL:** [https://jobs.smartrecruiters.com/Accesa/744000135482289](https://jobs.smartrecruiters.com/Accesa/744000135482289)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
