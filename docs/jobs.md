@@ -7,14 +7,14 @@
 | CIF | 32930567 |
 | Brand | Accesa |
 | Status | activ |
-| Location | Cluj-Napoca |
+| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. CONSTANŢA, NR.12 |
 | Website | [https://www.accesa.eu](https://www.accesa.eu) |
 | Careers | [https://jobs.smartrecruiters.com/Accesa](https://jobs.smartrecruiters.com/Accesa) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (24)
 
-_Generated: 2026-11-26T16:16:39.335Z_
+_Generated: 2026-11-27T16:01:38.258Z_
 
 ### Senior Network Engineer
 
